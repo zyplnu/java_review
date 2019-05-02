@@ -11,10 +11,12 @@ import java.io.*;
  */
 public class BufferedWriterTest {
 
+    static BufferedWriter bw = null;
+    static BufferedReader reader = null;
 
     public static void main(String[] args) {
         try {
-            BufferedWriter bw = new BufferedWriter(new FileWriter("D:/dat.txt" ));
+             bw = new BufferedWriter(new FileWriter("D:/dat.txt" ));
             String s = null;
             for(int i = 0; i < 100;i++){
                 s = String.valueOf(Math.random());
@@ -22,12 +24,27 @@ public class BufferedWriterTest {
                 bw.newLine();
             }
             bw.flush();
-            BufferedReader reader = new BufferedReader(new FileReader("D:/dat.txt" ));
+            reader = new BufferedReader(new FileReader("D:/dat.txt" ));
             while((s = reader.readLine()) != null){
                 System.out.println(s);
             }
         } catch (IOException e) {
             e.printStackTrace();
+        } finally {
+            if(bw != null){
+                try {
+                    bw.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+            if(reader != null){
+                try {
+                    reader.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
         }
         System.out.println(System.getProperty("line.separator"));
     }
