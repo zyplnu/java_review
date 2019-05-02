@@ -19,12 +19,16 @@ public class InputStreamTest {
      */
     public static void testRead(){
 
+        int num = 0;
+
         try {
             is = new FileInputStream(new File(file));
             while((read = is.read()) != -1){
-                System.out.println((char) read);
+                num++;
+                if(num == 101){
+                    System.out.print((char) read);
+                }
             }
-            System.out.println(read);
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (IOException e) {
@@ -87,6 +91,7 @@ public class InputStreamTest {
         try {
             is = new FileInputStream(new File(file));
             long length = is.skip(5);
+            System.out.println(length);
             while((read = is.read()) != -1){
                 System.out.println(read);
             }
