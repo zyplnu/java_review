@@ -32,8 +32,8 @@
 		字符串 		StringReader 	-------
 					StringWriter    -------
 
-		pipe（管道） PipedReader 	PipedInputStream
-					PipedWriter    	PipedOutputStream
+		pipe（管道） PipedReader 	    PipedInputStream
+				    PipedWriter    	PipedOutputStream
 
 		说明：就是一根管道插在数据源上面
 
@@ -58,7 +58,7 @@
 
 		行号读入流 			LineNumberReader 	LineNumberInputStream
 
-		推回输入流   		PushbackReader  	PushbackInputStream
+		推回输入流   		    PushbackReader  	PushbackInputStream
 
 		打印流 				PrintWriter 		PrintStream
 
