@@ -57,9 +57,8 @@ public class WriterTest {
     }
 
     public static void main(String[] args) {
-        for(int i = 0; i < 100; i++){
-            System.out.println(Math.random() * 10);
-        }
+        byte b = 1;
+        System.out.println(b);
     }
 
 }

@@ -1,0 +1,147 @@
+1、Java流分类
+
+按照数据流的方向：输入流和输出流
+
+按照处理数据单位：字节流和字符流
+
+按照功能不同：节点流和处理流
+
+------------------------------------------------------------------------------------------------------------------------
+			字节流			字符流
+输入流		InputStream 	Reader
+输出流		OutputStream 	Writer
+
+说明：字节流是最原始的一个流，读出来的数据都是0101这种最底层的数据表现形式，只不过它是按照字节读的，一个字节是8bit，读的时候一次性读取8bit；一个字符是两个字节，因此是16bit，一个汉字是两个字节，因此可以按照字节读取两次或者按照字符读取一次。
+	  节点流：从一个特定的数据源读写数据，（比如：文件、内存、网络），只需要一根管道连接程序和数据源，因此这个管道就叫做节点流；
+	  处理流：而处理流就是在节点流这个管道上包裹其他的流，对数据处理提供更加强大的功能。处理流可以有多层。
+	  【可以把文件想象成水桶，而数据就是水桶中的水，程序读取文件可以想象为一根管道连接程序和文件，水从文件通过管道流到程序或从程序通过管道流到文件，这根管道就是流，单根的管道比较细，流的慢，可以节约用水，在单根管道上多套基层粗管子水就流的快了，加快了数据的处理速度，因此被称作处理流。】
+
+-------------------------------------------------------------------------------------------------------------------------	  
+2、节点流和处理流类型
+
+	2-1 节点流类型
+
+		类型			字符流			字节流
+
+		文件 		FileReader    	FileInputStream
+					FileWriter 		FileOutputStream
+
+		数组  		CharArrayReader ByteArrayInputStream
+					CharArrayWriter ByteArrayOutputStream
+
+		字符串 		StringReader 	-------
+					StringWriter    -------
+
+		pipe（管道） PipedReader 	PipedInputStream
+					PipedWriter    	PipedOutputStream
+
+		说明：就是一根管道插在数据源上面
+
+	2-2 处理流类型
+
+		类型 		 		字符流  				字节流
+
+		Bufferring			BufferedReader 		BufferedInputStream
+		  					BufferedWriter 		BufferedOutputStream
+
+		Filtering			FilterReader		FilterInputStream
+							FilterWriter 		FilterOutputStream
+
+		字符/字节转换 		InputStreamReader
+							OutputStreamWriter
+
+		对象序列化 			-------- 			ObjectInputStream
+												ObjectOutputSteam
+
+		数据转化 			-------- 			DataInputStream
+												DataOutputStream
+
+		Counting 			LineNumberReader 	LineNumberInputStream
+
+		Peeking ahead 		PushbackReader  	PushbackInputStream
+
+		打印流 				PrintWriter 		PrintStream
+
+		说明：处理流是包在别的流上面的流，相当于包在别的管道上的管道
+
+java输入流和输出流
+
+1、字节输入流： 
+
+			InputStream ---->   ByteArrayInputStream : 把字节数组转化为输入流 
+
+						  		FileInputStream ： 文件输入流，从文件中读取数据
+						  
+						  		PipedInputStream ： 从一个管道输出流中读取数据，通常由一个线程向管道输出流中 写数据，另一个线程从管道输入流中读取数据，两个线程可以用管道进行通信
+
+						  		SequenceInputStream ： 将几个输入流串联在一起，合并为一个输入流
+
+						  		ObjectInputStream ： 
+
+						  		FilterInputStream       ---->    BufferedInputStream ： 利用缓冲区来提高读效率
+
+						  										 DataInputStream ： 按照与平台无关的方式从流中读取基本类型（int、char、long）的数据
+
+						  										 PushbackInputStream ： 有一个后推缓冲区，用于存放已经读入的当前字节。
+
+
+2、字节输出流：
+
+		OutputStream  ----->   ByteArrayOutputStream : 向字节数组中写数据
+
+							   FileOutputStream : 向文件中写数据
+
+							   PipedOutputStream ： 向管道中输出数据，与PipedInputStream搭配使用
+
+							   ObjectOutputStream ： 对象输出流
+
+							   FilterOutputStream   ---->    BufferedOutputStream ： 利用缓冲区来提高写效率
+
+							   								 DataOutputStream ： 与DataInputStream搭配使用，可以按照与平台无关的方式向流中写基本类型（int、char、long等）的数据
+
+							   								 PrintStream ： 输出格式化的数据
+
+
+  【注意：为了保证BufferedOutputStream会把缓冲区中的数据写入到文件中，一种办法是调用flush()方法，该方法立即执行一次把缓冲区的数据写到输出流中的操作，例如：outer.flush()；还有一种方法是在执行完输出流的所有writer()方法后，关闭所有输出流。过滤输出流的close()的方法会先调用本身，以及被装饰的输出流的flush()方法，这样会保证加入过滤流本身或者被装饰的流带有缓冲区，那么缓冲区的数据会被写入到数据汇中，例如：out.close()】						
+
+
+
+
+3、字符输入流：
+
+		Reader  ---->   CharArrayReader ： 从内存中的字符数组中读取字符
+
+						BufferedReader ： 带有缓冲区，装饰其他Reader ---> LineNumberReader
+
+						StringReader ： 把字符串类型转化为Reader类型，使程序能够对字符串进行读操作
+
+						PipedReader : 连接一个PipedWriter
+
+						FilterReader  ---> PushBackReader
+
+						InputStreamReader ： 把InputStream类型转化为Reader类型，可以指定数据源的字符编码
+
+											------>  FileReader : 是InputStreamReader的一个子类，按照本地平台的字符编码从文件中读取数据，用户不能指定其他字符编码类型；
+
+
+4、字符输出流：
+
+		Writer ----->    CharArrayWriter : 把字符写到内存中的字符数组中
+
+						 BufferedWriter : 带有缓冲区的字符输出流
+
+						 StringWriter : 
+
+						 PipedWriter :
+
+						 FilterWriter :
+
+						 PrintWriter :
+
+						 OutputStreamWriter : 适配器，把OutputStream转化为Writer ， 可以指定数据汇的字符编码
+
+						 					----->  FileWriter , 是OutputStreamWriter的一个子类，向文件中写字符，按照本地平台的字符编码向文件中写数据，用户不能指定其他字符编码类型；
+
+
+【注意：BufferedReader中有一个readLine()方法，而BufferedWriter中没有writeLine()方法。如果要输出一行字符串，应该再用PrintWriter来装饰BufferedWriter，PrintWriter的println(String s) 方法可以输出一行字符串】
+
