@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75e87b17-c3cc-4c88-98f0-250063ebdf67" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/CourseFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/ICourse.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/INote.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/IVideo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/JavaCourse.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/JavaCourseFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/JavaNote.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/JavaVideo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/PythonCourse.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/PythonCourseFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/PythonNote.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/PythonVideo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/Test.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="75e87b17-c3cc-4c88-98f0-250063ebdf67" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,62 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="IVideo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/IVideo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JavaVideo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/JavaVideo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-              <folding>
-                <element signature="e#107#108#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PythonVideo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/PythonVideo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="INote.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/INote.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JavaNote.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/JavaNote.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-              <folding>
-                <element signature="e#103#104#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PythonNote.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/PythonNote.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -101,12 +25,22 @@
       <file leaf-file-name="CourseFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/CourseFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            <state relative-caret-position="216">
+              <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
               <folding>
                 <element signature="e#86#87#0" expanded="true" />
                 <element signature="e#127#128#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="总结" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/总结">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -133,18 +67,134 @@
       <file leaf-file-name="PythonCourseFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/PythonCourseFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="54">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="129">
-              <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/设计模式.工厂模式.抽象工厂.CourseFactory" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/设计模式.工厂模式.抽象工厂.CourseFactory">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>设计模式.工厂模式.抽象工厂.CourseFactory</OriginalElement>
+              <nodes>
+                <node x="78.5" y="314.0">设计模式.工厂模式.抽象工厂.IVideo</node>
+                <node x="129.0" y="395.0">设计模式.工厂模式.抽象工厂.PythonVideo</node>
+                <node x="0.0" y="395.0">设计模式.工厂模式.抽象工厂.JavaVideo</node>
+                <node x="150.0" y="238.0">设计模式.工厂模式.抽象工厂.JavaCourse</node>
+                <node x="112.0" y="0.0">设计模式.工厂模式.抽象工厂.CourseFactory</node>
+                <node x="89.0" y="157.0">设计模式.工厂模式.抽象工厂.ICourse</node>
+                <node x="380.0" y="314.0">设计模式.工厂模式.抽象工厂.INote</node>
+                <node x="435.0" y="395.0">设计模式.工厂模式.抽象工厂.JavaNote</node>
+                <node x="192.0" y="81.0">设计模式.工厂模式.抽象工厂.JavaCourseFactory</node>
+                <node x="0.0" y="238.0">设计模式.工厂模式.抽象工厂.PythonCourse</node>
+                <node x="0.0" y="81.0">设计模式.工厂模式.抽象工厂.PythonCourseFactory</node>
+                <node x="0.0" y="471.0">设计模式.工厂模式.抽象工厂.Test</node>
+                <node x="297.0" y="395.0">设计模式.工厂模式.抽象工厂.PythonNote</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="设计模式.工厂模式.抽象工厂.JavaNote" target="设计模式.工厂模式.抽象工厂.INote">
+                  <point x="0.0" y="-15.5" />
+                  <point x="487.0" y="370.0" />
+                  <point x="442.25" y="370.0" />
+                  <point x="20.75" y="15.5" />
+                </edge>
+                <edge source="设计模式.工厂模式.抽象工厂.JavaVideo" target="设计模式.工厂模式.抽象工厂.IVideo">
+                  <point x="0.0" y="-15.5" />
+                  <point x="54.5" y="370.0" />
+                  <point x="100.5" y="370.0" />
+                  <point x="-22.0" y="15.5" />
+                </edge>
+                <edge source="设计模式.工厂模式.抽象工厂.JavaCourse" target="设计模式.工厂模式.抽象工厂.ICourse">
+                  <point x="0.0" y="-15.5" />
+                  <point x="208.0" y="213.0" />
+                  <point x="160.25" y="213.0" />
+                  <point x="23.75" y="15.5" />
+                </edge>
+                <edge source="设计模式.工厂模式.抽象工厂.PythonNote" target="设计模式.工厂模式.抽象工厂.INote">
+                  <point x="0.0" y="-15.5" />
+                  <point x="356.0" y="370.0" />
+                  <point x="400.75" y="370.0" />
+                  <point x="-20.75" y="15.5" />
+                </edge>
+                <edge source="设计模式.工厂模式.抽象工厂.PythonVideo" target="设计模式.工厂模式.抽象工厂.IVideo">
+                  <point x="0.0" y="-15.5" />
+                  <point x="190.5" y="370.0" />
+                  <point x="144.5" y="370.0" />
+                  <point x="22.0" y="15.5" />
+                </edge>
+                <edge source="设计模式.工厂模式.抽象工厂.PythonCourseFactory" target="设计模式.工厂模式.抽象工厂.CourseFactory">
+                  <point x="0.0" y="-15.5" />
+                  <point x="86.0" y="56.0" />
+                  <point x="145.25" y="56.0" />
+                  <point x="-33.25" y="15.5" />
+                </edge>
+                <edge source="设计模式.工厂模式.抽象工厂.JavaCourseFactory" target="设计模式.工厂模式.抽象工厂.CourseFactory">
+                  <point x="0.0" y="-15.5" />
+                  <point x="271.0" y="56.0" />
+                  <point x="211.75" y="56.0" />
+                  <point x="33.25" y="15.5" />
+                </edge>
+                <edge source="设计模式.工厂模式.抽象工厂.PythonCourse" target="设计模式.工厂模式.抽象工厂.ICourse">
+                  <point x="0.0" y="-15.5" />
+                  <point x="65.0" y="213.0" />
+                  <point x="112.75" y="213.0" />
+                  <point x="-23.75" y="15.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-3.0" y="202.5" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>public</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ICourseFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/ICourseFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JavaCourseFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/JavaCourseFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PythonCourseFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/PythonCourseFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -182,6 +232,7 @@
         <option value="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/JavaCourseFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/PythonCourseFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/总结" />
       </list>
     </option>
   </component>
@@ -248,25 +299,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="设计模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_review" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_review" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="工厂模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_review" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_review" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="工厂模式" type="462c0819:PsiDirectoryNode" />
-              <item name="抽象工厂" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -423,16 +455,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647522561481</updated>
-      <workItem from="1647522562871" duration="2318000" />
+      <workItem from="1647522562871" duration="2864000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2318000" />
+    <option name="totallyTimeSpent" value="2864000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -442,12 +473,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -575,22 +606,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/ICourseFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/JavaCourseFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/IVideo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -604,8 +619,8 @@
         <state relative-caret-position="135">
           <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
           <folding>
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#107#108#0" expanded="false" />
+            <element signature="e#162#163#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -631,8 +646,8 @@
         <state relative-caret-position="135">
           <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
           <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#103#104#0" expanded="false" />
+            <element signature="e#150#151#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -642,17 +657,6 @@
         <state relative-caret-position="108">
           <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/CourseFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-          <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -673,18 +677,145 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/PythonCourseFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="129">
+          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/PythonCourseFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        <state relative-caret-position="54">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/设计模式.工厂模式.抽象工厂.CourseFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>设计模式.工厂模式.抽象工厂.CourseFactory</OriginalElement>
+          <nodes>
+            <node x="78.5" y="314.0">设计模式.工厂模式.抽象工厂.IVideo</node>
+            <node x="129.0" y="395.0">设计模式.工厂模式.抽象工厂.PythonVideo</node>
+            <node x="0.0" y="395.0">设计模式.工厂模式.抽象工厂.JavaVideo</node>
+            <node x="150.0" y="238.0">设计模式.工厂模式.抽象工厂.JavaCourse</node>
+            <node x="112.0" y="0.0">设计模式.工厂模式.抽象工厂.CourseFactory</node>
+            <node x="89.0" y="157.0">设计模式.工厂模式.抽象工厂.ICourse</node>
+            <node x="380.0" y="314.0">设计模式.工厂模式.抽象工厂.INote</node>
+            <node x="435.0" y="395.0">设计模式.工厂模式.抽象工厂.JavaNote</node>
+            <node x="192.0" y="81.0">设计模式.工厂模式.抽象工厂.JavaCourseFactory</node>
+            <node x="0.0" y="238.0">设计模式.工厂模式.抽象工厂.PythonCourse</node>
+            <node x="0.0" y="81.0">设计模式.工厂模式.抽象工厂.PythonCourseFactory</node>
+            <node x="0.0" y="471.0">设计模式.工厂模式.抽象工厂.Test</node>
+            <node x="297.0" y="395.0">设计模式.工厂模式.抽象工厂.PythonNote</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="设计模式.工厂模式.抽象工厂.JavaNote" target="设计模式.工厂模式.抽象工厂.INote">
+              <point x="0.0" y="-15.5" />
+              <point x="487.0" y="370.0" />
+              <point x="442.25" y="370.0" />
+              <point x="20.75" y="15.5" />
+            </edge>
+            <edge source="设计模式.工厂模式.抽象工厂.JavaVideo" target="设计模式.工厂模式.抽象工厂.IVideo">
+              <point x="0.0" y="-15.5" />
+              <point x="54.5" y="370.0" />
+              <point x="100.5" y="370.0" />
+              <point x="-22.0" y="15.5" />
+            </edge>
+            <edge source="设计模式.工厂模式.抽象工厂.JavaCourse" target="设计模式.工厂模式.抽象工厂.ICourse">
+              <point x="0.0" y="-15.5" />
+              <point x="208.0" y="213.0" />
+              <point x="160.25" y="213.0" />
+              <point x="23.75" y="15.5" />
+            </edge>
+            <edge source="设计模式.工厂模式.抽象工厂.PythonNote" target="设计模式.工厂模式.抽象工厂.INote">
+              <point x="0.0" y="-15.5" />
+              <point x="356.0" y="370.0" />
+              <point x="400.75" y="370.0" />
+              <point x="-20.75" y="15.5" />
+            </edge>
+            <edge source="设计模式.工厂模式.抽象工厂.PythonVideo" target="设计模式.工厂模式.抽象工厂.IVideo">
+              <point x="0.0" y="-15.5" />
+              <point x="190.5" y="370.0" />
+              <point x="144.5" y="370.0" />
+              <point x="22.0" y="15.5" />
+            </edge>
+            <edge source="设计模式.工厂模式.抽象工厂.PythonCourseFactory" target="设计模式.工厂模式.抽象工厂.CourseFactory">
+              <point x="0.0" y="-15.5" />
+              <point x="86.0" y="56.0" />
+              <point x="145.25" y="56.0" />
+              <point x="-33.25" y="15.5" />
+            </edge>
+            <edge source="设计模式.工厂模式.抽象工厂.JavaCourseFactory" target="设计模式.工厂模式.抽象工厂.CourseFactory">
+              <point x="0.0" y="-15.5" />
+              <point x="271.0" y="56.0" />
+              <point x="211.75" y="56.0" />
+              <point x="33.25" y="15.5" />
+            </edge>
+            <edge source="设计模式.工厂模式.抽象工厂.PythonCourse" target="设计模式.工厂模式.抽象工厂.ICourse">
+              <point x="0.0" y="-15.5" />
+              <point x="65.0" y="213.0" />
+              <point x="112.75" y="213.0" />
+              <point x="-23.75" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-3.0" y="202.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>public</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/JavaCourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/PythonCourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/ICourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/CourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding>
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/总结">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
           <folding />
         </state>
       </provider>
