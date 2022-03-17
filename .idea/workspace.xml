@@ -77,8 +77,8 @@
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/简单工厂/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            <state relative-caret-position="297">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -444,12 +444,20 @@
       <workItem from="1646978810998" duration="132000" />
       <workItem from="1646979042205" duration="679000" />
       <workItem from="1646980685242" duration="7985000" />
-      <workItem from="1647306292590" duration="3680000" />
+      <workItem from="1647306292590" duration="3743000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;工厂方法和抽象工厂&quot;">
+      <created>1647483700213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647483700213</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12864000" />
+    <option name="totallyTimeSpent" value="12927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -490,6 +498,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;工厂方法和抽象工厂&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;工厂方法和抽象工厂&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -736,8 +748,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂模式/简单工厂/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="297">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding />
         </state>
       </provider>
