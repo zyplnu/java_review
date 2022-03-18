@@ -2,7 +2,7 @@ package 设计模式.单例模式.懒汉式单例;
 
 /**
  * 优点：节省内存
- * 缺点：线程不安全
+ * 缺点：线程不安全(加synchronized)
  */
 public class LazySimpleSingleton {
 
@@ -11,7 +11,7 @@ public class LazySimpleSingleton {
     private LazySimpleSingleton() {
     }
 
-    public static LazySimpleSingleton getInstance(){
+    public synchronized static LazySimpleSingleton getInstance(){
         if(instance == null){
             instance = new LazySimpleSingleton();
         }
