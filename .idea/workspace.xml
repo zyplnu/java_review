@@ -2,61 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75e87b17-c3cc-4c88-98f0-250063ebdf67" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_rc2_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/代理模式/动态代理/cglib动态代理/CglibMeiPo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/代理模式/动态代理/cglib动态代理/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/代理模式/动态代理/cglib动态代理/Zhangsan.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/代理模式/动态代理/jdk动态代理/IPerson.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/代理模式/动态代理/jdk动态代理/JdkMeiPo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/代理模式/动态代理/jdk动态代理/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/代理模式/动态代理/jdk动态代理/Zhangsan.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/代理模式/动态代理/jdk动态代理/ZhaoLiu.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/代理模式/总结" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/代理模式/静态代理/IPerson.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/代理模式/静态代理/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/代理模式/静态代理/ZhangLaoSan.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/代理模式/静态代理/Zhangsan.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/原型模式/总结" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/原型模式/深拷贝/JinGuBang.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/原型模式/深拷贝/Monkey.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/原型模式/深拷贝/QiTianDaSheng.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/原型模式/深拷贝/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/建造者模式/总结" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/建造者模式/简单模式/Course.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/建造者模式/简单模式/CourseBuilder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/建造者模式/简单模式/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/建造者模式/链式模式/Course.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/建造者模式/链式模式/CourseBuilder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/建造者模式/链式模式/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/门面模式/FacadeService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/门面模式/GiftInfo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/门面模式/PaymentService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/门面模式/QualityService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/门面模式/ShippingService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/门面模式/Test.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/java_review.iml" afterPath="$PROJECT_DIR$/java_review.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/工厂方法/ICourse.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/工厂方法/ICourseFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/工厂方法/JavaCourse.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/工厂方法/JavaCourseFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/工厂方法/PythonCourse.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/工厂方法/PythonCourseFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/工厂方法/Test.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/抽象工厂/CourseFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/抽象工厂/ICourse.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/抽象工厂/INote.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/抽象工厂/IVideo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/抽象工厂/JavaCourse.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/抽象工厂/JavaCourseFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/抽象工厂/JavaNote.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/抽象工厂/JavaVideo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/抽象工厂/PythonCourse.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/抽象工厂/PythonCourseFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/抽象工厂/PythonNote.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/抽象工厂/PythonVideo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/抽象工厂/Test.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/简单工厂/CourseFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/简单工厂/ICourse.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/简单工厂/JavaCourse.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/简单工厂/PythonCourse.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/工厂模式/简单工厂/Test.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,24 +20,80 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Zhangsan.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/代理模式/动态代理/jdk动态代理/Zhangsan.java">
+      <file leaf-file-name="JdkMeiPo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/代理模式/动态代理/jdk动态代理/JdkMeiPo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+            <state relative-caret-position="351">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GiftInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/门面模式/GiftInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <folding>
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PaymentService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/门面模式/PaymentService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JdkMeiPo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/代理模式/动态代理/jdk动态代理/JdkMeiPo.java">
+      <file leaf-file-name="QualityService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/门面模式/QualityService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="81">
+              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShippingService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/门面模式/ShippingService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/门面模式/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FacadeService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/门面模式/FacadeService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -122,56 +130,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="总结" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/代理模式/总结">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Zhangsan.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/代理模式/动态代理/cglib动态代理/Zhangsan.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/代理模式/动态代理/cglib动态代理/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="62" lean-forward="true" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Enhancer.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.m2/repository/cglib/cglib/rc2-1.0/cglib-rc2-1.0.jar!/net/sf/cglib/Enhancer.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-69">
-              <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -193,12 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/INote.java" />
-        <option value="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/JavaNote.java" />
-        <option value="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/PythonNote.java" />
-        <option value="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/CourseFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/JavaCourseFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/PythonCourseFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/抽象工厂/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/总结" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/单例模式/饿汉式单例/HungrySingleton.java" />
@@ -244,6 +196,12 @@
         <option value="$PROJECT_DIR$/src/main/java/设计模式/代理模式/动态代理/cglib动态代理/Zhangsan.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/代理模式/动态代理/cglib动态代理/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/代理模式/动态代理/cglib动态代理/CglibMeiPo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/门面模式/GiftInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/门面模式/PaymentService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/门面模式/QualityService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/门面模式/ShippingService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/门面模式/FacadeService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/门面模式/Test.java" />
       </list>
     </option>
   </component>
@@ -324,49 +282,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="代理模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_review" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_review" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="代理模式" type="462c0819:PsiDirectoryNode" />
-              <item name="动态代理" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_review" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_review" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="代理模式" type="462c0819:PsiDirectoryNode" />
-              <item name="动态代理" type="462c0819:PsiDirectoryNode" />
-              <item name="cglib动态代理" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_review" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_review" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="代理模式" type="462c0819:PsiDirectoryNode" />
-              <item name="动态代理" type="462c0819:PsiDirectoryNode" />
-              <item name="jdk动态代理" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_review" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_review" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="代理模式" type="462c0819:PsiDirectoryNode" />
-              <item name="静态代理" type="462c0819:PsiDirectoryNode" />
+              <item name="门面模式" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -410,7 +326,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (4)">
+  <component name="RunManager" selected="Application.Test (5)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -513,14 +429,14 @@
       <module name="java_review" />
       <envs />
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="设计模式.建造者模式.链式模式.*" />
+          <option name="PATTERN" value="设计模式.门面模式.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="设计模式.建造者模式.链式模式.Test" />
+      <option name="MAIN_CLASS_NAME" value="设计模式.门面模式.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -607,18 +523,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test (2)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Test (3)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Test (4)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Test (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test (3)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test (4)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test (5)" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test (4)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Test (3)" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Test (5)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test (4)" />
         <item index="2" class="java.lang.String" itemvalue="Application.Test (3)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test (3)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -637,12 +554,12 @@
       <updated>1647522561481</updated>
       <workItem from="1647522562871" duration="23978000" />
       <workItem from="1647762472984" duration="100000" />
-      <workItem from="1647762631323" duration="3543000" />
+      <workItem from="1647762631323" duration="4993000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27621000" />
+    <option name="totallyTimeSpent" value="29071000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -650,13 +567,14 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7823344" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -672,7 +590,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -690,51 +607,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="183" column="31" lean-forward="false" selection-start-line="183" selection-start-column="31" selection-end-line="183" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk/src.zip!/java/lang/ThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="253" column="22" lean-forward="false" selection-start-line="253" selection-start-column="22" selection-end-line="253" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/单例模式/总结">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/单例模式/注册式单例/EnumSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/单例模式/懒汉式单例/LazyStaticInnerClassSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/单例模式/懒汉式单例/LazyDoubleCheckSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -1109,11 +981,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/代理模式/动态代理/jdk动态代理/JdkMeiPo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="351">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/门面模式/GiftInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/门面模式/PaymentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/门面模式/QualityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/门面模式/ShippingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/门面模式/FacadeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/门面模式/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
