@@ -8,6 +8,10 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/享元模式/抢票/TrainTicket.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/享元模式/连接池/ConnectionPool.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/享元模式/连接池/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/组合模式/透明模式/Course.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/组合模式/透明模式/CourseComponent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/组合模式/透明模式/CoursePackage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/设计模式/组合模式/透明模式/Test.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -52,15 +56,79 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConnectionPool.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ConnectionPool.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/享元模式/连接池/ConnectionPool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="-320">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1173#1174#0" expanded="true" />
                 <element signature="e#1203#1204#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CourseComponent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/组合模式/透明模式/CourseComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding>
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+                <element signature="e#445#446#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#572#573#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoursePackage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/组合模式/透明模式/CoursePackage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="35" column="26" lean-forward="false" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#625#626#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#733#734#0" expanded="true" />
+                <element signature="e#810#811#0" expanded="true" />
+                <element signature="e#843#844#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/组合模式/透明模式/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Course.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/组合模式/透明模式/Course.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <folding>
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -107,11 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/设计模式/原型模式/深拷贝/Monkey.java" />
-        <option value="$PROJECT_DIR$/src/main/java/设计模式/原型模式/深拷贝/JinGuBang.java" />
-        <option value="$PROJECT_DIR$/src/main/java/设计模式/原型模式/深拷贝/QiTianDaSheng.java" />
-        <option value="$PROJECT_DIR$/src/main/java/设计模式/原型模式/总结" />
-        <option value="$PROJECT_DIR$/src/main/java/设计模式/原型模式/深拷贝/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/建造者模式/Course.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/建造者模式/CourseBuilder.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/建造者模式/Test.java" />
@@ -158,6 +221,11 @@
         <option value="$PROJECT_DIR$/src/main/java/设计模式/享元模式/抢票/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/享元模式/连接池/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/享元模式/连接池/ConnectionPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/组合模式/透明模式/CoursePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/组合模式/透明模式/CourseComponent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/组合模式/透明模式/Course.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/组合模式/透明模式/CoursePackage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/组合模式/透明模式/Test.java" />
       </list>
     </option>
   </component>
@@ -249,6 +317,15 @@
               <item name="设计模式" type="462c0819:PsiDirectoryNode" />
               <item name="享元模式" type="462c0819:PsiDirectoryNode" />
               <item name="连接池" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_review" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_review" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="组合模式" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -521,16 +598,15 @@
       <updated>1647522561481</updated>
       <workItem from="1647522562871" duration="23978000" />
       <workItem from="1647762472984" duration="100000" />
-      <workItem from="1647762631323" duration="12914000" />
+      <workItem from="1647762631323" duration="14255000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36992000" />
+    <option name="totallyTimeSpent" value="38333000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -542,7 +618,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47791797" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47791797" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
@@ -574,28 +650,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/建造者模式/链式模式/CourseBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/建造者模式/链式模式/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/建造者模式/总结">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/代理模式/general/ISubject.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/代理模式/general/RealSubject.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/代理模式/general/Proxy.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/代理模式/general/Client.java" />
@@ -1065,12 +1119,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/享元模式/连接池/ConnectionPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="-320">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1173#1174#0" expanded="true" />
             <element signature="e#1203#1204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/组合模式/透明模式/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/组合模式/透明模式/CourseComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/组合模式/透明模式/CoursePackage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="35" column="26" lean-forward="false" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/组合模式/透明模式/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
           </folding>
         </state>
       </provider>
